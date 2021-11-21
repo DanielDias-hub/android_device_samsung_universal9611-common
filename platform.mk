@@ -17,7 +17,7 @@
 ### PROPRIETARY VENDOR FILES
 $(call inherit-product, vendor/samsung/universal9611-common/universal9611-common-vendor.mk)
 
-PLATFORM_PATH := device/samsung/universal9611-common
+PLATFORM_PATH := device/samsung/m21-common 
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
